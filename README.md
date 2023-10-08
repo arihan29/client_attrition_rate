@@ -1,1 +1,1 @@
-# client_attrition_rate
+This project aims to identify companies or consumers with a high probability of attrition, a crucial task for business retention strategies. We utilize Support Vector Machines (SVM) as the primary classification algorithm, leveraging the powerful scikit-learn library.
